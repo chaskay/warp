@@ -1,0 +1,24 @@
+name: Chaskay # Name for the theme
+accent:
+cursor:
+background:
+foreground:
+details: darker
+terminal_colors:
+  bright:
+    black:
+    blue:
+    cyan:
+    green:
+    magenta:
+    red:
+    white:
+    yellow:
+  normal:
+    black:
+    blue:
+    cyan:
+    green:
+    magenta:
+    red:
+    white:
