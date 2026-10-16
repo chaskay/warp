@@ -1,24 +1,25 @@
 name: Chaskay
-accent:
-cursor:
-background:
-foreground:
+accent: "#3B3D55"
+cursor: "#B4ACDF"
+background: "#191D25"
+foreground: "#D7D9DF"
 details: darker
 terminal_colors:
   bright:
-    black:
-    blue:
-    cyan:
-    green:
-    magenta:
-    red:
-    white:
-    yellow:
+    black: "#697383"
+    blue: "#91BDE8"
+    cyan: "#8DCCD4"
+    green: "#B2D49D"
+    magenta: "#CAA2E2"
+    red: "#EB949B"
+    white: "#D7D9DF"
+    yellow: "#EBD19A"
   normal:
-    black:
-    blue:
-    cyan:
-    green:
-    magenta:
-    red:
-    white:
+    black: "#252A34"
+    blue: "#76ACE0"
+    cyan: "#70BBC6"
+    green: "#A0C58A"
+    magenta: "#BA8CD6"
+    red: "#DF7D86"
+    white: "#A2ABBA"
+    yellow: "#DFC184"
