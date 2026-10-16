@@ -1,6 +1,6 @@
 <h3 align="center">
 	<img src="assets/chaskay.png" width="100" alt="Logo"/><br/>
-	Chaskayfor <a href="https://www.warp.dev">Warp</a>
+	Chaskay for <a href="https://www.warp.dev">Warp</a>
 </h3>
 
 
